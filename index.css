@@ -1,0 +1,37 @@
+ul {
+      List-style-type: square;
+      font-size: 14px;
+      color: white;
+      font-family: 'Georgia';
+    }
+
+    h1 {
+      color: #d5010a;
+      background-color: linen;
+      font-size: 23px;
+    font-family: 'American Typewriter';
+    }
+
+body {
+/*   Precendence for last style property */
+  background-color: thistle;
+}
+
+    h2 {
+      color: hsl(357, 99%, 42%);
+      font-family: 'Courier';
+    }
+
+    p {
+      color: #a39999;
+      font-size: 12px:
+      font-family: 'Courier New';
+    }
+    h4 {
+      color: #01d524;
+    font-family: 'American Typewriter';
+    }
+    footer {
+      font-family: 'Verdana';
+      background-color: mediumslateblue;
+    }
